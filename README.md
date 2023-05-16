@@ -1,7 +1,7 @@
 # Human-Computer-Interaction-NTUA
 Project for course of 7th semester Human-Computer Interaction in NTUA
 
-### MediTracker
+### MediTracker 💊
 Take a chill pill, you won't forget the other ones.
 
 The Meditracker app makes sure you don't miss a dose of medication
