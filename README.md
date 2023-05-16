@@ -10,3 +10,8 @@ monitoring medication intake and other loved ones. It is handy for
 all ages as it has sound notifications, possibility to personalize it
 name of each drug, drug recognition via camera and large, clearly visible
 font.
+
+Team Members:
+* [George Tzoumanekas](https://github.com/GeoTzoum)
+* [Nick Bletsas](https://github.com/nickbletsas)
+* [Dimitra Kostavasili](https://github.com/dimkost)
